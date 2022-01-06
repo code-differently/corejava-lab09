@@ -1,4 +1,5 @@
 package com.codedifferently.labs.lab09.part_b.activity;
 
-public class Activity02 {
+public class Activity02_MoreScanning {
+
 }

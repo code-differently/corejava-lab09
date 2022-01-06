@@ -14,14 +14,18 @@ In the package `lab15.part_a.examples` look at the file `Example01_LossOfDecimal
 
 #### Step 02
 
-In the package `labs.lab15.part_a.activity` complete the `Activity01_Populations` by following the steps outlined within Populations Class
+In the package `labs.lab15.part_a.activity` complete the `Activity01_KeepTheDecimal` per the following:
+
+    Create a variable of type double and assign it a value with two decimal places
+    Create a variable of type int and assign it the variable you just created - fix the error it gives you
+    Print the variable of datatype double
+    Print the variable of datatype integer 
 
 Your program is working correctly, if when run, the following is the output:
 
 ```
-Current World Population: 7000000000
-World population in 1950: 221000000140200000054700000033900000013000000
-Current Asia Population: 4200000000
+My double value: 12.45
+My integer value: 12
 ```
 
 > Use Example01_LossOfDecimal for reference.
@@ -105,4 +109,59 @@ Your number increased by one is: 28
 
 > Use Example01_Scanner for reference.
 
-    
+### Example and Activity 02
+
+#### Step 01
+
+In the package `lab15.part_b.examples` look at the file `Example02_MoreScanning` and write comments for each line of code. When complete review with instructor.
+
+#### Step 02
+
+In the package `labs.lab15.part_b.activity` complete the `Activity02_MoreScanning` per the following:
+
+    Create a scanner
+    Ask the user to enter three integers and store each of them
+    Print the sum of all three of the integers the user entered
+    Remember to close the Scanner
+
+Your program is working correctly, if when run, the following is the output:
+```
+Enter 3 Numbers: 
+2
+6
+2
+The sum of your inputs equals: 10
+```
+
+> Use Example02_MoreScanning for reference.
+
+
+### Example and Activity 03
+
+#### Step 01
+
+In the package `lab15.part_b.examples` look at the file `Example03_EvenMoreScanning` and write comments for each line of code. When complete review with instructor.
+
+#### Step 02
+
+In the package `labs.lab15.part_b.activity` complete the `Activity03_EvenMoreScanning` per the following:
+
+    Create a scanner
+    Ask the user to enter their name, age, salary
+    Store each of these inputs in variables that have appropriate datatypes (pay attention to how salary is displayed)
+    Per the example below, return to the user each of their inputs on different lines confirming what they entered
+
+Your program is working correctly, if when run, the following is the output:
+```
+    Enter name, age and salary:
+    Gio
+    28
+    6.65
+    Name: Gio
+    Age: 28
+    Salary: 6.65
+```
+
+> Use Example03_EvenMoreScanning for reference.
+
+## Part C
