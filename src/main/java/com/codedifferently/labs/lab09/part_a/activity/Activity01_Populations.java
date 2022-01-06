@@ -1,6 +1,6 @@
 package com.codedifferently.labs.lab09.part_a.activity;
 
-public class Activity01 {
+public class Activity01_Populations {
 
     public static void main(String[] args) {
         // Uncomment and fix the lines below:
