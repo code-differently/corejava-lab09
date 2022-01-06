@@ -10,11 +10,11 @@
 
 #### Step 01
 
-In the package `lab15.part_a.examples` look at the file `Example01_LossOfDecimal` and write comments for each line of code. When complete review with instructor.
+In the package `lab09.part_a.examples` look at the file `Example01_LossOfDecimal` and write comments for each line of code. When complete review with instructor.
 
 #### Step 02
 
-In the package `labs.lab15.part_a.activity` complete the `Activity01_KeepTheDecimal` per the following:
+In the package `labs.lab09.part_a.activity` complete the `Activity01_KeepTheDecimal` per the following:
 
     Create a variable of type double and assign it a value with two decimal places
     Create a variable of type int and assign it the variable you just created - fix the error it gives you
@@ -34,11 +34,11 @@ My integer value: 12
 
 #### Step 01
 
-In the package `lab15.part_a.examples` look at the file `Example02_Parsing` and write comments for each line of code. When complete review with instructor.
+In the package `lab09.part_a.examples` look at the file `Example02_Parsing` and write comments for each line of code. When complete review with instructor.
 
 #### Step 02
 
-In the package `labs.lab15.part_a.activity` complete the `Activity02_Parsing` per the following:
+In the package `labs.lab09.part_a.activity` complete the `Activity02_Parsing` per the following:
 
         Create a variable of datatype String and assign it a numeric value
         Print out the message that is expected per the example below
@@ -58,11 +58,11 @@ The integer value is: 37.5
 
 #### Step 01
 
-In the package `lab15.part_a.examples` look at the file `Example03_TypeCasting` and write comments for each line of code. When complete review with instructor.
+In the package `lab09.part_a.examples` look at the file `Example03_TypeCasting` and write comments for each line of code. When complete review with instructor.
 
 #### Step 02
 
-In the package `labs.lab15.part_a.activity` complete the `Activity03_TypeCasting` per the following:
+In the package `labs.lab09.part_a.activity` complete the `Activity03_TypeCasting` per the following:
 
         Declare and initialize a byte with a value of 128
         Declare and initialize a short with a value of 128
@@ -88,11 +88,11 @@ The value of the byte variable is: -127
 
 #### Step 01
 
-In the package `lab15.part_b.examples` look at the file `Example01_Scanner` and write comments for each line of code. When complete review with instructor.
+In the package `lab09.part_b.examples` look at the file `Example01_Scanner` and write comments for each line of code. When complete review with instructor.
 
 #### Step 02
 
-In the package `labs.lab15.part_b.activity` complete the `Activity01_Scanner` per the following:
+In the package `labs.lab09.part_b.activity` complete the `Activity01_Scanner` per the following:
 
     Create a Scanner - name it anything other than scanner
     Ask the user to pass in a number but store it as a String
@@ -113,11 +113,11 @@ Your number increased by one is: 28
 
 #### Step 01
 
-In the package `lab15.part_b.examples` look at the file `Example02_MoreScanning` and write comments for each line of code. When complete review with instructor.
+In the package `lab09.part_b.examples` look at the file `Example02_MoreScanning` and write comments for each line of code. When complete review with instructor.
 
 #### Step 02
 
-In the package `labs.lab15.part_b.activity` complete the `Activity02_MoreScanning` per the following:
+In the package `labs.lab09.part_b.activity` complete the `Activity02_MoreScanning` per the following:
 
     Create a scanner
     Ask the user to enter three integers and store each of them
@@ -140,11 +140,11 @@ The sum of your inputs equals: 10
 
 #### Step 01
 
-In the package `lab15.part_b.examples` look at the file `Example03_EvenMoreScanning` and write comments for each line of code. When complete review with instructor.
+In the package `lab09.part_b.examples` look at the file `Example03_EvenMoreScanning` and write comments for each line of code. When complete review with instructor.
 
 #### Step 02
 
-In the package `labs.lab15.part_b.activity` complete the `Activity03_EvenMoreScanning` per the following:
+In the package `labs.lab09.part_b.activity` complete the `Activity03_EvenMoreScanning` per the following:
 
     Create a scanner
     Ask the user to enter their name, age, salary
