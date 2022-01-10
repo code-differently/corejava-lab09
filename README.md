@@ -165,3 +165,36 @@ Your program is working correctly, if when run, the following is the output:
 > Use Example03_EvenMoreScanning for reference.
 
 ## Part C
+
+In this part of the lab you will complete `GuessingGame` , the objective of your program should be to generate a random number between 1 and 100. Then give the user 10 attempts to try and guess the number.
+
+If the users guess is higher than the number, your output should be `Too High`. 
+
+If the users guess is lower than the number, your output should be `Too Low`.
+
+After each unsuccessful attemp, you should up date the user on how many attemps they have left.
+
+At the end of each game the user should be asked `Do you want to Play Again?`. If the answer is yes, a new round of High Low should start.
+
+```
+Welcome to Too High / Too Low.
+The Object of this game is to guess a number between 1 and 100 in 10 tries or less.
+This is the start of the Round you have 10 guesses left
+99
+Too High, you have 9 attempts left
+89
+Too High, you have 8 attempts left
+80
+Too Low, you have 7 attempts left
+85
+Too High, you have 6 attempts left
+84
+Success, that was the magic number.
+Would you like to play again?
+no
+
+Process finished with exit code 0
+```
+
+You must complete the Spiral Document BEFORE starting to code.
+
