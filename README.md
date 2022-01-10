@@ -198,3 +198,4 @@ Process finished with exit code 0
 
 You must complete the Spiral Document BEFORE starting to code.
 
+> Hint on generating [random numbers](https://www.delftstack.com/howto/java/java-random-number-between-1-and-10/) 
